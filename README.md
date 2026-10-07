@@ -45,3 +45,9 @@ The application retrieves the relevant content and returns **Page 13** as the so
 
 Buse Nur Eser  
 Computer Engineering Graduate
+
+## Screenshots
+
+![Application interface](47fa26d6-ab0c-4283-961f-fb11386f1e2e.png)
+
+![Application example](ebb70cf9-d3c9-46bc-81b4-b8eafe4f5a2a.png)
